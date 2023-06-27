@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martovg&show_icons=true&locale=en" alt="martovg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martovg&" alt="martovg" /></p>
+
+<h2>All the best!</h2>
