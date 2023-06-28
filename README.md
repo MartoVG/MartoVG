@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JS-Fundamentals, Advanced and C# OOP**
 
+- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+
 - 📫 How to reach me **martinvvgeorgiev@gmail.com**
 
 - ⚡ Fun fact **Car guy**
