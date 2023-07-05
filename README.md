@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS-Fundamentals and Advanced, C# OOP and Python Fundamentals**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at **Coming soon...**
 
 - 📫 How to reach me **martinvvgeorgiev@gmail.com**
 
