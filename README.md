@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Coming soon...**
 
-- 🌱 I’m currently learning **JS-Fundamentals, Advanced, Python-Fundamentals and C# OOP**
+- 🌱 I’m currently learning **JS-Fundamentals and Advanced, C# OOP and Python Fundamentals**
 
-- 👨‍💻 All of my projects are available at **(Coming soon...)**
+- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
 
 - 📫 How to reach me **martinvvgeorgiev@gmail.com**
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.bg/my-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.bg/my-profile/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/martin-georgiev-467279279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-georgiev-467279279/" height="30" width="40" /></a>
+<a href="https://dev.to/dev. to martin georgiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev. to martin georgiev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin georgiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin georgiev" height="30" width="40" /></a>
+<a href="https://instagram.com/martinv.georgiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinv.georgiev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
