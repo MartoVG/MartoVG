@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Coming soon...**
 
-- 🌱 I’m currently learning **JS-Fundamentals and Advanced, C# OOP and Python Fundamentals**
+- 🌱 I’m currently learning **JS-Fundamentals, Advanced and C# OOP **
 
 - 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
 
