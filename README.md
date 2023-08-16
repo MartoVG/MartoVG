@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I am a recent graduate with a strong interest in programming and management. I have a foundation in computer science and business management, with proficiency in C#, JavaScript, SQL, HTML and CSS. I possess excellent communication and leadership skills, demonstrated through my involvement in extracurricular activities and leadership positions. I am a lifelong learner who stays updated with the latest industry trends, and I am eager to contribute my technical expertise and management abilities to a dynamic organization.</h3>
 
-- 🔭 I’m currently working on **Coming soon...**
-
 - 🌱 I’m currently learning **JS-Fundamentals, Advanced and C# OOP **
-
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
 
 - 📫 How to reach me **martinvvgeorgiev@gmail.com**
 
